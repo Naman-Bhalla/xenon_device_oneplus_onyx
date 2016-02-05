@@ -16,4 +16,14 @@
     "repository": "android_external_stlport",
     "target_path": "external/stlport"
   }
+  {
+    "remote":      "github",
+    "repository":  "vendor_oneplus_onyx",
+    "target_path": "vendor/oneplus/onyx"
+  },
+  {
+    "remote":      "github",
+    "repository":  "xenon_device_oneplus_onyx",
+    "target_path": "device/oneplus/onyx"
+  },
 ]
